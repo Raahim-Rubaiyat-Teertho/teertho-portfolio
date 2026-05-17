@@ -82,7 +82,7 @@ export default function Projects() {
   return (
     <div
       className="h-auto w-full flex flex-col items-center mb-40"
-      id="experience"
+      id="projects"
     >
       {/* Heading */}
       <motion.div

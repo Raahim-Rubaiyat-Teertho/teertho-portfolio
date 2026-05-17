@@ -29,7 +29,8 @@ export default function Navbar() {
         <div className="hidden md:flex gap-6 text-white items-center">
           <a href="#about">About</a>
           <a href="#experience">Experience</a>
-          <a href="#">Projects</a>
+          <a href="#projects">Projects</a>
+          <a href="#music">Music</a>
           <a
             className="bg-blue-600 px-4 py-2 rounded hover:bg-blue-700 transition"
             href="#"
@@ -45,6 +46,7 @@ export default function Navbar() {
           <a href="#about">About</a>
           <a href="#experience">Experience</a>
           <a href="#">Projects</a>
+          <a href="#music">Music</a>
           <a
             className="bg-blue-600 px-4 py-2 rounded w-fit hover:bg-blue-700 transition"
             href="#"

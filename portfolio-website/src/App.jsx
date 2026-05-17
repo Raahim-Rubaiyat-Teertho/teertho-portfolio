@@ -9,6 +9,10 @@ import Intro from "./components/intro";
 import Experience from "./components/experience";
 import Navbar from "./components/ui/navbar";
 import Projects from "./components/projects";
+import Music from "./components/music";
+import Footer from "./components/ui/footer";
+import Contact from "./components/contact";
+import Education from "./components/education";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -19,9 +23,13 @@ function App() {
       <Navbar />
       <Intro />
       <AboutMe />
+      <Education />
       <Experience />
       <Projects />
       <BackgroundBeams />
+      <Music />
+      <Contact />
+      <Footer />
     </>
   );
 }

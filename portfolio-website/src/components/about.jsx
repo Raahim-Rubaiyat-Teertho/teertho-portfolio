@@ -18,13 +18,12 @@ export default function AboutMe() {
           >
             <h1 className="text-6xl font-space pb-10">About Me</h1>
             <p className="text-gray-200 pb-10">
-              Hi, I'm a 24-year-old computer science student from Dhaka,
-              Bangladesh, studying at BRAC University. I'm passionate about
-              building software and exploring new tech like AI and machine
-              learning. I enjoy learning every day and trying my hand at
-              projects that simplify life in small ways. When I'm not coding,
-              you'll likely find me making music—a creative way to relax and
-              express myself.
+              Hi, I'm a 25-year-old Computer Science graduate from Dhaka,
+              Bangladesh. I'm passionate about building software and exploring
+              new tech like AI and machine learning. I enjoy learning every day
+              and trying my hand at projects that simplify life in small ways.
+              When I'm not coding, you'll likely find me making music, a
+              creative way to relax and express myself.
             </p>
           </motion.p>
         </div>

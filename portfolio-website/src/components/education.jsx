@@ -45,7 +45,16 @@ export default function Education() {
               <span className="font-bold"> Academic Thesis: </span>
               Enhancing Medical Image Segmentation With Parameter-Efficient
               Involutional Neural Networks And Diverse Datasets.
-              <span className="font-bold"> (Ongoing for publication)</span>
+              <span className="font-bold">
+                {" "}
+                <a
+                  href="https://doi.org/10.1109/ICCIT68739.2025.11491670"
+                  className="hover:text-white underline"
+                  target="_blank"
+                >
+                  (DOI: 10.1109/ICCIT68739.2025.11491670)
+                </a>
+              </span>
             </p>
           </div>
         </div>

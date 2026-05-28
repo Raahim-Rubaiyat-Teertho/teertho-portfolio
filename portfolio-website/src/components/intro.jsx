@@ -47,7 +47,7 @@ export default function Intro() {
         transition={{ duration: 0.7, delay: 0.7 }} // Starts after typing finishes
       >
         <a href="#about">
-          <button className="mt-7 px-3 py-2 border-white border-2 bg-white text-slate-950 rounded-lg font-medium">
+          <button className="mt-7 px-3 py-2 bg-blue-600 text-white rounded-lg font-medium">
             More About Me
           </button>
         </a>

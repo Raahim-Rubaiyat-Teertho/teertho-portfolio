@@ -33,7 +33,7 @@ export default function Navbar() {
           <a href="#music">Music</a>
           <a
             className="bg-blue-600 px-4 py-2 rounded hover:bg-blue-700 transition"
-            href="#"
+            href="#contact"
           >
             Contact
           </a>
